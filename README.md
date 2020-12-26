@@ -43,7 +43,8 @@ d e f
 з малих латинських лiтер вiд a до z.
 Вихiднi данi
 Вихiдний файл ijones .out повинен мiстити одне цiле число — кiлькiсть рiзних
-шляхiв для виходу з коридору. 
+шляхiв для виходу з коридору.
+
 To run my code: • Clone this repository git clone https://github.com/Valentine122/algolab4
 
 • Enter your data in file in/in1
